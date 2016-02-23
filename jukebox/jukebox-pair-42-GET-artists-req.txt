@@ -1,0 +1,4 @@
+GROUP-NAME:/artists
+PAIR-NAME:pair-42 GET /artists
+GET /artists?orderBy={orderBy;lastUpdated;name;createdAt} 
+
