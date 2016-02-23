@@ -1,0 +1,9 @@
+GROUP-NAME:/artists
+PAIR-NAME:pair-66 POST /artists
+POST /artists?access_token=AABBCCDD 
+
+{
+  "artistName": "Daft Punk",
+  "description": "French electronic music duo consisting of musicians Guy-Manuel de Homem-Christo and Thomas Bangalter",
+  "imageURL": "http://travelhymns.com/wp-content/uploads/2013/06/random-access-memories1.jpg"
+}
