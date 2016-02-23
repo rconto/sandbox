@@ -1,0 +1,4 @@
+GROUP-NAME:/albums
+PAIR-NAME:pair-107 GET /albums
+GET /albums?offset=20&limit=80&order={order;desc;asc} 
+
