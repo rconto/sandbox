@@ -1,0 +1,4 @@
+GROUP-NAME:/artists/{artistId}
+PAIR-NAME:pair-67 GET /artists/{artistId}
+GET /artists/{artistId} 
+
