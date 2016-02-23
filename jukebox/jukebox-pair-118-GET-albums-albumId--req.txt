@@ -1,0 +1,4 @@
+GROUP-NAME:/albums/{albumId}
+PAIR-NAME:pair-118 GET /albums/{albumId}
+GET /albums/{albumId} 
+
