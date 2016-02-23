@@ -1,0 +1,4 @@
+GROUP-NAME:/albums
+PAIR-NAME:pair-116 GET /albums
+GET /albums?countryCode=ELE&offset=20&limit=80&orderBy={orderBy;lastUpdated;name;createdAt}&order={order;desc;asc} 
+
