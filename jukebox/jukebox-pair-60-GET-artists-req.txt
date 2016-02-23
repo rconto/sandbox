@@ -1,0 +1,4 @@
+GROUP-NAME:/artists
+PAIR-NAME:pair-60 GET /artists
+GET /artists?offset=20&orderBy={orderBy;lastUpdated;name;createdAt}&order={order;desc;asc} 
+
