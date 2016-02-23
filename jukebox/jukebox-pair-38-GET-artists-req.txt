@@ -1,0 +1,4 @@
+GROUP-NAME:/artists
+PAIR-NAME:pair-38 GET /artists
+GET /artists?limit=80 
+
