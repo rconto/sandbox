@@ -1,0 +1,1 @@
+{ "message": "The artist has been added." }
