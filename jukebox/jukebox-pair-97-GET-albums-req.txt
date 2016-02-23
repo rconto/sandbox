@@ -1,0 +1,4 @@
+GROUP-NAME:/albums
+PAIR-NAME:pair-97 GET /albums
+GET /albums?limit=80&orderBy={orderBy;lastUpdated;name;createdAt} 
+
