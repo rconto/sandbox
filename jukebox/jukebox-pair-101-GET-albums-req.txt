@@ -1,0 +1,4 @@
+GROUP-NAME:/albums
+PAIR-NAME:pair-101 GET /albums
+GET /albums?order={order;desc;asc} 
+
