@@ -1,0 +1,4 @@
+GROUP-NAME:/artists
+PAIR-NAME:pair-37 GET /artists
+GET /artists?countryCode=FRA&offset=20 
+
