@@ -1,0 +1,4 @@
+GROUP-NAME:/artists/{artistId}/albums
+PAIR-NAME:pair-79 GET /artists/{artistId}/albums
+GET /artists/{artistId}/albums?limit=80&order={order;desc;asc} 
+
