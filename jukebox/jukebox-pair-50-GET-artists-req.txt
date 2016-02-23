@@ -1,0 +1,4 @@
+GROUP-NAME:/artists
+PAIR-NAME:pair-50 GET /artists
+GET /artists?order={order;desc;asc} 
+
